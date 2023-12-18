@@ -1,16 +1,16 @@
-# App-Store Scraper API
+# App Store Scraper API
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-Oxylabs’ [App-Store Scraper](https://oxylabs.io/products/scraper-api/web/app-store-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an App-Store website effortlessly. This brief guide explains how an App-Store Scraper works and provides code examples to understand better how you can use it hassle-free.
+Oxylabs’ [App Store Scraper](https://oxylabs.io/products/scraper-api/web/app-store-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from any App Store effortlessly. This brief guide explains how an App Store Scraper works and provides code examples to understand better how you can use it hassle-free.
 
 ### How it works
 
-You can get App-Store results by providing your own URLs to our service. We can return the HTML for any App-Store page you like.
+You can get App Store results by providing your own URLs to our service. We can return the HTML for any App Store page you like.
 
 #### Python code example
 
-The example below illustrates how you can get HTML of App-Store page.
+The example below illustrates how you can get [apple.com](https://www.apple.com/app-store/) App Store HTML results.
 
 ```python
 import requests
@@ -52,4 +52,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our App-Store Scraper, you can seamlessly extract public data from any App-Store web page. Gather crucial app data such as app ratings, developer details, update history, and the number of downloads to gain insights into market trends and outperform your rivals. If you have any queries, feel free to reach out to our support team via live chat or shoot us an email at hello@oxylabs.io.
+With our App Store Scraper, you can seamlessly extract public data from any App Store web page. Gather crucial app data such as app ratings, developer details, update history, and the number of downloads to gain insights into market trends and outperform your rivals. If you have any queries, feel free to reach out to our support team via live chat or shoot us an email at hello@oxylabs.io.
